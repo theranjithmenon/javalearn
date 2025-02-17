@@ -12,8 +12,6 @@ public class CheckPalindrome {
             System.out.println("Not Palindrome");
         }
         System.out.println(reversedText);
-
-
     }
 
     static String getReversedText(String text) {
